@@ -4,6 +4,7 @@ backend:
 
 site_url: https://quizzical-mirzakhani-502cfd.netlify.app
 display_url: https://quizzical-mirzakhani-502cfd.netlify.app
+show_preview_links: true
 
 media_folder: static/img
 public_folder: /img
