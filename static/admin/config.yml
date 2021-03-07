@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: master
 
+site_url: https://quizzical-mirzakhani-502cfd.netlify.app
+display_url: https://quizzical-mirzakhani-502cfd.netlify.app
+
 media_folder: static/img
 public_folder: /img
 
